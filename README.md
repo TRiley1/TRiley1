@@ -12,7 +12,7 @@ I'm currently working on a web scraper that gathers articles related to my inter
 
 **🎮 Gaming and 🎬 Film**
 
-When not coding, I'm a passionate gamer, enjoying FIFA, Call of Duty, and Rocket League. Additionally, I'm a supporter of Manchester United and a film buff, with my favourite film, "Dodgeball," being a reminder that resilience conquers challenges.
+When not coding, I'm a passionate gamer, enjoying FIFA, Call of Duty, and Rocket League. Additionally, I'm a supporter of Manchester United and a film buff, with my favourite film, "Dodgeball," being a reminder that resilience conquers challenges and a wrench.
 
 
 **📚 Let's Connect**
