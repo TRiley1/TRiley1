@@ -16,6 +16,7 @@ When not coding, I'm a passionate gamer, enjoying FIFA, Call of Duty, and Rocket
 
 
 **📚 Let's Connect**
+
  Explore my projects, chat about coding, game strategies, or the latest match.
 
 <!---
