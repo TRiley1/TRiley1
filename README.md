@@ -8,7 +8,7 @@ My journey involves translating creativity into code, with projects spanning Pyt
 
 **🛠️ Currently Working On**
 
-I'm currently working on a web scraper that gathers articles related to my interests – from coding to sports. Built with the intention of gathering my interests in one personalised location.  
+I'm currently working on a web scraper that gathers articles related to my interests – from coding to sports. Built with the intention of having my interests in one personalised location.  
 
 **🎮 Gaming and 🎬 Film**
 
