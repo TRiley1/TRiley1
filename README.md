@@ -16,8 +16,7 @@ When not coding, I'm a passionate gamer, enjoying FIFA, Call of Duty, and Rocket
 
 
 **📚 Let's Connect**
-
-I'm excited to connect with fellow developers, gamers, sport lovers, and anyone intrigued by technology, entertainment, and sports. Explore my projects, chat about coding, game strategies, or the latest match – let's embrace the tech world together.
+ Explore my projects, chat about coding, game strategies, or the latest match.
 
 <!---
 TRiley1/TRiley1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
