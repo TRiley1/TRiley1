@@ -6,9 +6,14 @@ Hello! I'm Thomas RIley, a junior software engineer venturing into the tech worl
 
 My journey involves translating creativity into code, with projects spanning Python's flexibility, Java's solidity, JavaScript's interactivity, and TypeScript's type safety.
 
+**🛠️ Currently Working On**
+
+I'm currently working on a web scraper that gathers articles related to my interests – from coding to sports. This is built with the intention of collecting the data that interests me in one personalised application.  
+
 **🎮 Gaming and 🎬 Film**
 
 When not coding, I'm a passionate gamer, enjoying FIFA, Call of Duty, and Rocket League. Additionally, I'm a supporter of Manchester United and a Cinophile, with my favourite film, "Dodgeball," being a reminder that resilience conquers challenges.
+
 
 **📚 Let's Connect**
 
