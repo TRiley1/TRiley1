@@ -1,6 +1,6 @@
 **👋 Welcome to My GitHub Profile!**
 
-Hello! I'm Thomas Riley, a junior software engineer. I've experience in Python, Java, JavaScript and have recently tried TypeScript.
+Hello! I'm Thomas Riley, a junior software engineer. I have experience in Python, Java, JavaScript and have recently tried TypeScript.
 
 **🛠️ Currently Working On**
 
